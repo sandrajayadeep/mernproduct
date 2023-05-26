@@ -7,7 +7,7 @@ export default function Nav1() {
       <div>
           
           <nav>
-         <ul classname='d=flex justify-content-around list-unstyled mt-5 text-decoration-none'>
+          <ul className='d-flex justify-content-around list-unstyled my-5 '>
             <li>
                <Link to="/">Home</Link>
             </li>

@@ -9,8 +9,7 @@ export default function App() {
   return (
     <div>
       <Nav1 />
-      <h1 className='text-center'>
-        Products</h1>
+     
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
